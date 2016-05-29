@@ -1,7 +1,9 @@
 # GIS data for Indonesian Family Life Survey
-This repository is for about 3500 GIS data for Indonesian Family Life Survey, they contains Latitude and Longitude.
+This repository includes 3500 households GIS data of Indonesian Family Life Survey, fourth wave.
+The dataset contains Latitude and Longitude.
 
 This dataset is from Google Geocoding API.
+You can use these dataset for free.
 
 About IFLS, see here: http://www.rand.org/labor/FLS/IFLS.html
 
@@ -14,8 +16,8 @@ About IFLS, see here: http://www.rand.org/labor/FLS/IFLS.html
 
 ## FAQ
 * How reliable is this dataset?
- * I made the data by Google Maps API, Geocoding API. (If you want, I will share my Ruby code.)
-   The data is not from the official one, and the reliability is not enough.
+ * I made the data by Google Maps API, Geocoding API.
+ * Please notice that the dataset is not from the official one, and the reliability is not enough.
 
 ## By
 hidesys. info@hidesys.net
