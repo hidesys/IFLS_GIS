@@ -12,6 +12,11 @@ About IFLS, see here: http://www.rand.org/labor/FLS/IFLS.html
  * Data
    * Latitude and Longitude
 
+## FAQ
+* How reliable is this dataset?
+ * I made the data by Google Maps API, Geocoding API. (If you want, I will share my Ruby code.)
+   The data is not from the official one, and the reliability is not enough.
+
 ## By
 hidesys. info@hidesys.net
 
